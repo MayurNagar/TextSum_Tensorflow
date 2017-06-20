@@ -1,0 +1,460 @@
+Iter 1, accuracy = 0.0000, loss = 10.819908
+Iter 200, accuracy = 0.3273, loss = 5.023596
+Iter 400, accuracy = 0.2734, loss = 4.736464
+Iter 600, accuracy = 0.2906, loss = 4.628862
+Iter 800, accuracy = 0.2445, loss = 4.918265
+Iter 1000, accuracy = 0.2707, loss = 4.623677
+Iter 1000, VALIDATION -- accuracy = 0.2359, loss = 4.824543
+PASSAGE
+bipolar disorder bd is a major psychiatric disorder that is easily misdiagnosed . patient adherence to a treatment regimen is of utmost importance for successful outcomes in bd . several trials of antipsychotics suggested that depot antipsychotics including longacting first and secondgeneration agents are effective in preventing nonadherence partial adherence and in reducing relapse in bd . various longacting injectable lai antipsychotics are available including UNK decanoate haloperidol decanoate olanzapine UNK risperidone microspheres paliperidone palmitate and aripiprazole monohydrate . due to the increasing number of bd patients receiving lai antipsychotics treatment guidelines have been developed . however the clinical applicability of lai antipsychotics remains a global cause for concern particularly in asian countries . expert physicians from taiwan participated in a consensus meeting which was held to review key areas based on both current literature and clinical practice . the purpose of this meeting was to generate a practical and UNK set of recommendations for lai antipsychotic use to treat bd target patient groups dosage administration and adverse effects were considered . experts recommended using lai antipsychotics in patients with schizophrenia rapid cycling bd bd i and UNK schizoaffective disorder . lai antipsychotic use was recommended in bd patients with
+Model Pred = UNK UNK UNK of UNK of in the UNK UNK . the . . PAD PAD PAD PAD PAD PAD
+Ground Truth = a systemic review and experts consensus for longacting injectable antipsychotics in bipolar disorder . PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--1000.ckpt
+Iter 1200, accuracy = 0.2691, loss = 4.636142
+Iter 1400, accuracy = 0.2273, loss = 4.781948
+Iter 1, accuracy = 0.2512, loss = 4.643216
+Iter 200, accuracy = 0.2352, loss = 4.761775
+Iter 400, accuracy = 0.2527, loss = 4.607841
+Iter 600, accuracy = 0.2547, loss = 4.479100
+Iter 800, accuracy = 0.2473, loss = 4.622950
+Iter 1000, accuracy = 0.2562, loss = 4.477896
+Iter 1000, VALIDATION -- accuracy = 0.2375, loss = 4.476236
+PASSAGE
+due to expansion of the pharmaceutical market it seems necessary to prove the efficacy of the generic drugs . the aim of this study is to compare the effects of two clopidogrel formulations UNK and generic drug UNK . this is a prospective randomized study comparing two groups of patients treated with two clopidogrel UNK UNK and generic drug UNK . the 53 consecutive patients with stable coronary artery disease qualifying for coronary angiography and pci were enrolled in this trial . they were randomized into two groups . in the group a n 28 patients received UNK 300 mg at admission followed by 8 days of 75 mg UNK daily . in the group b n 25 patients received UNK 300 mg on the admission followed by 8 days of 75 mg UNK maintenance therapy . blood samples for multiple electrode aggregometry testing were drawn at baseline 5 hours and 8 days after taking the loading dose . median values of platelet aggregation inhibition did not differ between the UNK and UNK groups when assessed at baseline UNK UNK vs . 209 UNK p 0 . 894 5 hours after loading 183 UNK UNK vs . 165 UNK p
+Model Pred = UNK of UNK UNK and of UNK UNK in in on and UNK and PAD PAD PAD PAD PAD PAD
+Ground Truth = comparison of the antiplatelet effect of two clopidogrel UNK formulations UNK and UNK . PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--1000.ckpt
+Iter 1200, accuracy = 0.2609, loss = 4.354226
+Iter 1400, accuracy = 0.2516, loss = 4.330469
+Iter 1600, accuracy = 0.2902, loss = 4.047048
+Iter 1800, accuracy = 0.2801, loss = 4.233381
+Iter 2000, accuracy = 0.2660, loss = 4.159433
+Iter 2000, VALIDATION -- accuracy = 0.2785, loss = 4.017900
+PASSAGE
+the average consumption of sugar in the malaysian population has reached an alarming rate exceeding the benchmark recommended by experts . this article argues the need of a paradigm shift in the management of sugar consumption in the country through evidence derived from addiction research . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the and the UNK UNK UNK to the and . systematic . the UNK care . UNK care . .
+Ground Truth = addiction to sugar and its link to health morbidity a primer for newer primary care and public health initiatives in
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--2000.ckpt
+Iter 2200, accuracy = 0.2789, loss = 4.136522
+Iter 2400, accuracy = 0.2598, loss = 4.060565
+Iter 2600, accuracy = 0.2523, loss = 4.327220
+Iter 2800, accuracy = 0.2805, loss = 4.008527
+Iter 3000, accuracy = 0.2363, loss = 4.223323
+Iter 3000, VALIDATION -- accuracy = 0.2707, loss = 4.072450
+PASSAGE
+UNK is a five protein complex conserved from yeast to humans involved in linking mrna transcription and export . the UNK 2 subunit of UNK is also a component of the centrosome and is additionally involved in a distinctly different process of nuclear protein export . while UNK 2 is a known multifunctional protein the roles of other human UNK complex proteins other than mrna export are not known . in this study we found that human UNK member UNK but not UNK is involved in some of the same cellular processes as those of UNK 2 apart from the classical UNK function . UNK is present at the centrosome in a subset of hela cells and this localization is UNK 2 dependent . furthermore the presence of UNK at the centrosome is prevalent throughout the cell cycle as determined by UNK with cyclins e a and b . UNK but not UNK is also involved in protein export . surprisingly sirna knockdown of UNK delayed the rate of nuclear protein export a mechanism distinct from the effects of UNK 2 which when knocked down inhibits export . finally we showed that UNK of UNK 2 and UNK leads to
+Model Pred = UNK UNK UNK of and UNK UNK UNK not by in the UNK . the . . UNK . UNK
+Ground Truth = human UNK components UNK and UNK 2 but not UNK have distinct functions in protein export and colocalize to the
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--3000.ckpt
+Iter 3200, accuracy = 0.2770, loss = 3.969019
+Iter 3400, accuracy = 0.2480, loss = 4.124094
+Iter 3600, accuracy = 0.2555, loss = 4.146657
+Iter 3800, accuracy = 0.2902, loss = 3.867112
+Iter 4000, accuracy = 0.2918, loss = 3.709459
+Iter 4000, VALIDATION -- accuracy = 0.2664, loss = 3.904819
+PASSAGE
+this study aimed to evaluate the feasibility of using a compact elliptical device to increase energy expenditure during sedentary activities . a secondary aim was to evaluate if two accelerometers attached to the elliptical device could provide reliable and valid assessments of participants frequency and duration of elliptical device use . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the of the UNK UNK UNK UNK for the the and in the and . PAD PAD PAD PAD PAD
+Ground Truth = feasibility of using a compact elliptical device to increase energy expenditure during sedentary activities . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--4000.ckpt
+Iter 4200, accuracy = 0.2691, loss = 3.951736
+Iter 4400, accuracy = 0.2668, loss = 3.862337
+Iter 4600, accuracy = 0.2301, loss = 4.050054
+Iter 4800, accuracy = 0.2457, loss = 4.025696
+Iter 5000, accuracy = 0.2648, loss = 3.746058
+Iter 5000, VALIDATION -- accuracy = 0.2566, loss = 3.957563
+PASSAGE
+the aim was to analyze the operative postoperative and functional outcome of laparoscopic management of previously failed pyeloplasty and to compare operative and postoperative outcome with laparoscopic pyeloplasty for primary ureteropelvic junction obstruction UNK . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = a laparoscopic of the coronary tract and in UNK . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = laparoscopic management of recurrent ureteropelvic junction obstruction following pyeloplasty . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--5000.ckpt
+Iter 5200, accuracy = 0.2453, loss = 3.939455
+Iter 5400, accuracy = 0.2355, loss = 4.007620
+Iter 5600, accuracy = 0.2766, loss = 3.886065
+Iter 5800, accuracy = 0.2750, loss = 3.621389
+Iter 6000, accuracy = 0.2652, loss = 3.778067
+Iter 6000, VALIDATION -- accuracy = 0.2574, loss = 3.863786
+PASSAGE
+longterm exposure to physical chemical ergonomic and psychosocial environmental factors may lead to occupational cardiovascular disease in metal industry employees . this study aimed to determine levels of knowledge levels regarding occupational and cardiovascular risk factors among metal industry employees . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the of the of the health risk health risk factors in patients UNK . . PAD PAD PAD PAD PAD
+Ground Truth = levels of awareness of occupational and general cardiovascular risk factors among metal industry employees . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--6000.ckpt
+Iter 6200, accuracy = 0.2668, loss = 3.723987
+Iter 6400, accuracy = 0.2617, loss = 3.785335
+Iter 6600, accuracy = 0.2543, loss = 3.686119
+Iter 6800, accuracy = 0.2648, loss = 3.686831
+Iter 7000, accuracy = 0.2547, loss = 3.664312
+Iter 7000, VALIDATION -- accuracy = 0.2984, loss = 3.486752
+PASSAGE
+maintaining the integrity of biopharmaceuticals is a major requirement for successful pulmonary delivery by nebulization . sparing laborious nebulization tests this study aimed to demonstrate the feasibility of a high throughput material saving surrogate method to predict protein stability after nebulization . detrimental conditions during nebulization with a UNK UNK vibrating mesh nebulizer were mimicked by vigorous agitation at elevated temperatures . comparing the effect of several different excipients on the stability of the protein UNK after nebulization and after the surrogate method revealed an excellent correlation regarding UNK aggregation r20 . 97 . design of experiment was used to develop an inhalable formulation of UNK based entirely on the new surrogate method . two lead formulation candidates were selected based on their predicted stability profile . the conservation of full UNK stability and activity after nebulization was confirmed for an UNK vibrating mesh nebulizer . this study demonstrated that biopharmaceutical formulation development for nebulization is feasible by means of imitating nebulizer related detrimental factors allowing an accelerated and more economic formulation development . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = UNK of the UNK in the UNK . . UNK UNK UNK UNK . . PAD PAD PAD PAD PAD
+Ground Truth = prediction of protein degradation during vibrating mesh nebulization via a high throughput screening method . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--7000.ckpt
+Iter 7200, accuracy = 0.2531, loss = 3.844735
+Iter 7400, accuracy = 0.2867, loss = 3.562089
+Iter 7600, accuracy = 0.2566, loss = 3.621532
+Iter 7800, accuracy = 0.2809, loss = 3.439714
+Iter 8000, accuracy = 0.2770, loss = 3.556064
+Iter 8000, VALIDATION -- accuracy = 0.2816, loss = 3.643212
+PASSAGE
+the process of amyloid formation by the normally soluble hormone islet amyloid polypeptide iapp contributes to βcell death in type 2 diabetes and in islet transplants . there are no clinically approved inhibitors of islet amyloidosis and the mode of action of existing inhibitors is not wellunderstood . resveratrol a natural polyphenol has been reported to inhibit amyloid formation by iapp and by the alzheimers disease aβ peptide . the mechanism of action of this compound is not known nor is its mode of interaction with iapp . in this study we use a series of iapp variants to examine possible interactions between resveratrol and iapp . fluorescence assays transmission electron microscopy and mass spectrometry demonstrate that resveratrol is much less effective as an inhibitor of iapp amyloid formation than the polyphenol epigallocatechin UNK egcg and unlike egcg does not significantly UNK preformed iapp amyloid fibrils . resveratrol is also shown to interfere with UNK assays . UNK mutants a truncation mutant mutants of each of the aromatic residues and mutants of UNK of iapp were examined . mutation of his to gln or leu weakens the ability of resveratrol to inhibit amyloid formation by iapp as do mutations of
+Model Pred = UNK analysis of UNK UNK of UNK in UNK the UNK in UNK cells . . . . UNK UNK
+Ground Truth = mutational analysis of the ability of resveratrol to inhibit amyloid formation by islet amyloid polypeptide critical evaluation of the importance
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--8000.ckpt
+Iter 8200, accuracy = 0.2809, loss = 3.566695
+Iter 8400, accuracy = 0.2906, loss = 3.411212
+Iter 8600, accuracy = 0.2621, loss = 3.574664
+Iter 8800, accuracy = 0.2719, loss = 3.542546
+Iter 9000, accuracy = 0.2773, loss = 3.526337
+Iter 9000, VALIDATION -- accuracy = 0.2703, loss = 3.581203
+PASSAGE
+aspergillus UNK accumulates xylitol when it grows on dxylose . in fungi dxylose is reduced to xylitol by the nadphdependent xylose reductase xr . xylitol is then further oxidized by the naddependent xylitol dehydrogenase UNK . the cofactor impairment between the xr and UNK can lead to the accumulation of xylitol under UNK conditions . most of the UNK are nadph dependent and contain a conserved UNK motif . the only known naturally occurring nadhdependent xr from candida parapsilosis carries an arginine residue instead of the lysine in this motif . in order to overcome xylitol accumulation in a . UNK a UNK to arg point mutation was introduced into the xr with the aim of changing the specificity toward nadh . the effect of the genetic engineering was examined in fermentation for citric acid production and xylitol accumulation by using dxylose as the sole carbon source . fermentation with the mutant strain showed a 2 . 8fold reduction in xylitol accumulation and 4 . 5fold increase in citric acid production compared to the wildtype strain . the fact that the mutant strain shows decreased xylitol levels is assumed to be associated with the capability of the mutated xr to
+Model Pred = UNK of of UNK UNK UNK UNK UNK in the and in UNK the acid in in the fumigatus .
+Ground Truth = point mutation of the xylose reductase xr gene reduces xylitol accumulation and increases citric acid production in aspergillus UNK .
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--9000.ckpt
+Iter 9200, accuracy = 0.2637, loss = 3.517918
+Iter 9400, accuracy = 0.2742, loss = 3.446488
+Iter 9600, accuracy = 0.2980, loss = 3.453015
+Iter 9800, accuracy = 0.2625, loss = 3.524992
+Iter 10000, accuracy = 0.2676, loss = 3.429520
+Iter 10000, VALIDATION -- accuracy = 0.2797, loss = 3.572261
+PASSAGE
+to 1 describe the characteristics and outcomes over time of picu patients with severe sepsis within the dedicated u . s . childrens hospitals 2 identify patient subgroups at risk for mortality from pediatric severe sepsis and 3 describe overall pediatric severe sepsis resource utilization . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the patients acute in and in risk in the UNK UNK care . . . PAD PAD PAD PAD PAD
+Ground Truth = pediatric severe sepsis current trends and outcomes from the pediatric health information systems database . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--10000.ckpt
+Iter 10200, accuracy = 0.2355, loss = 3.660473
+Iter 10400, accuracy = 0.2629, loss = 3.395480
+Iter 10600, accuracy = 0.2480, loss = 3.629369
+Iter 10800, accuracy = 0.2762, loss = 3.489641
+Iter 11000, accuracy = 0.2625, loss = 3.608501
+Iter 11000, VALIDATION -- accuracy = 0.2699, loss = 3.415456
+PASSAGE
+specificity in biotic interactions is mediated by functional traits inducing shifts in the community species composition . functional traits are often evolutionarily conserved resulting in closely related species tending to interact with similar species . this tendency may initially shape the phylogenetic composition of coexisting guilds but other UNK ecological processes may either blur or promote the mirroring of the phylogenetic compositions between guilds . the roles of intra and UNK interactions in shaping the phylogenetic community composition are largely unknown beyond the mere selectivity in the UNK interactions . plant facilitation is a phylogenetically structured speciesspecific process involving interactions not only between the same guild of plants but also between plants and other guilds such as arbuscular mycorrhizal fungi amf . in this study it is hypothesized that reciprocal UNK interactions will leave an interdependent phylogenetic signal in the community composition of both plants and amf . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = UNK of the analysis of UNK UNK . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = evidence for phylogenetic correlation of UNK assemblages PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--11000.ckpt
+Iter 11200, accuracy = 0.2602, loss = 3.395189
+Iter 11400, accuracy = 0.2680, loss = 3.406907
+Iter 11600, accuracy = 0.2668, loss = 3.443087
+Iter 11800, accuracy = 0.2766, loss = 3.374054
+Iter 12000, accuracy = 0.2797, loss = 3.348409
+Iter 12000, VALIDATION -- accuracy = 0.2629, loss = 3.421634
+PASSAGE
+hepatitis b virus hbv and human immunodeficiency virus hiv infections are two of the worlds most important infectious diseases . our objective was to determine the hepatitis b surface antigen hbsag and hepatitis b core antibody antihbc prevalences among adult hivinfected patients and identify the associations between sociodemographic variables and these hbv infection markers . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = prevalence prevalence of hepatitis b virus infection in in risk factors of in the patients . the india . PAD
+Ground Truth = the prevalence of hepatitis b virus infection markers and sociodemographic risk factors in hivinfected patients in southern brazil . PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--12000.ckpt
+Iter 12200, accuracy = 0.2754, loss = 3.481365
+Iter 12400, accuracy = 0.2863, loss = 3.200566
+Iter 12600, accuracy = 0.2660, loss = 3.521862
+Iter 12800, accuracy = 0.2801, loss = 3.341691
+Iter 13000, accuracy = 0.2570, loss = 3.563273
+Iter 13000, VALIDATION -- accuracy = 0.2719, loss = 3.434895
+PASSAGE
+magnetic fe3o4 and nonmagnetic sio2 and tio2 nanoparticles were decorated on their surface with UNK UNK acid UNK . the aim was to investigate the influence of the substrate on the behavior of these immobilized metal coordinating groups . the nanoparticles functionalized with UNK were used for the adsorption and separation of trivalent rareearth ions from aqueous solutions . the general adsorption capacity of the nanoparticles was very high 100 to 400 mgg due to their large surface area . the heavy rareearth ions are known to have a higher affinity for the coordinating groups than the light rareearth ions but an additional difference in selectivity was observed between the different nanoparticles . the separation of pairs of rareearth ions was found to be dependent on the substrate namely the density of edta groups on the surface . the observation that UNK hindrance or crowding of immobilized ligands influences the selectivity could provide a new tool for the finetuning of the coordination ability of traditional chelating ligands . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = UNK UNK of UNK UNK UNK UNK solution . UNK UNK resonance UNK UNK . PAD PAD PAD PAD PAD
+Ground Truth = selective uptake of rare earths from aqueous solutions by UNK magnetic and nonmagnetic nanoparticles . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--13000.ckpt
+Iter 13200, accuracy = 0.2496, loss = 3.447435
+Iter 13400, accuracy = 0.2715, loss = 3.348157
+Iter 13600, accuracy = 0.2527, loss = 3.478494
+Iter 13800, accuracy = 0.2734, loss = 3.438756
+Iter 14000, accuracy = 0.2922, loss = 3.219551
+Iter 14000, VALIDATION -- accuracy = 0.2375, loss = 3.767412
+PASSAGE
+in aesthetic mandibular contouring surgery which is often conducted in asians the operative procedure is thought to deliver a more aesthetic mandibular shape by means of contouring conducted as a whole from the ramus to the symphysis . the authors describe the refined concept and operative procedures of mandibular marginal contouring . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = UNK UNK UNK of a UNK . . UNK experience . UNK management . PAD PAD PAD PAD PAD PAD
+Ground Truth = mandibular marginal contouring in oriental aesthetic surgery refined surgical concept and operative procedure . PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--14000.ckpt
+Iter 14200, accuracy = 0.2695, loss = 3.376687
+Iter 14400, accuracy = 0.2195, loss = 3.525817
+Iter 14600, accuracy = 0.2789, loss = 3.352069
+Iter 14800, accuracy = 0.2578, loss = 3.400274
+Iter 15000, accuracy = 0.2902, loss = 3.092513
+Iter 15000, VALIDATION -- accuracy = 0.3035, loss = 3.290882
+PASSAGE
+this study aimed to explore whether individual cognitions and neighbourhood social capital strengthen each other in their relation with engaging in sports at least three times per week . crosssectional analyses on data from the last wave of the UNK trial 20092010 rotterdam the netherlands baseline response 98 were conducted . in total UNK had data on the last wave questionnaire 93 and 832 of them had complete data on a selfadministered questionnaire on frequency of sports participation perceived neighbourhood social capital cognitions attitude subjective norm perceived behavioural control and intention toward sport participation and demographics . UNK methods were used to aggregate perceived neighbourhood social capital to the neighbourhood level . multilevel logistic regression analyses neighbourhood and individual as levels were conducted to examine associations of cognitions neighbourhood social capital and the social capital by individual cognition interaction with fit norm compliance . if the interaction was significant simple slopes analyses were conducted to decompose interaction effects . it was found that neighbourhood social capital was significantly associated with fit norm compliance or 5 . 40 95 ci 1 . UNK . 74 . moreover neighbourhood social capital moderated the association of attitude perceived behavioural control and intention with
+Model Pred = the and and and a UNK of the and and UNK and . older children . PAD PAD PAD PAD
+Ground Truth = neighbourhood social capital as a moderator between individual cognitions and sports behaviour among dutch adolescents . PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--15000.ckpt
+Iter 15200, accuracy = 0.2664, loss = 3.286395
+Iter 15400, accuracy = 0.2848, loss = 3.267249
+Iter 15600, accuracy = 0.2254, loss = 3.563885
+Iter 15800, accuracy = 0.2781, loss = 3.260024
+Iter 16000, accuracy = 0.2336, loss = 3.435448
+Iter 16000, VALIDATION -- accuracy = 0.2723, loss = 3.293043
+PASSAGE
+cell adhesion on substrates is accompanied by significant changes in shape and cytoskeleton organization which affect subsequent cellular and tissue responses determining the longterm success of an implant . alterations in osteoblast stiffness upon adhesion on orthopaedic implants with different surface chemical composition and topography are thus of central interest in the field of bone implant research . this work aimed to study the mechanical response of osteoblasts upon adhesion on chitosancoated glass surfaces and to investigate possible correlations with the level of adhesion spreading and cytoskeleton reorganization . using the micropipette aspiration technique the osteoblast elastic modulus was found higher on chitosancoated than on uncoated control substrates and it was found to increase in the course of spreading for both substrates . the cellsurface contact area was measured throughout several time points of adhesion to quantify cell spreading kinetics . significant differences were found between chitosan and control surfaces regarding the response of cell spreading while both groups displayed a sigmoidal UNK behavior with an initially elevated spreading rate which stabilizes in the second hour of attachment . actin filament structural changes were confirmed after observation with confocal microscope . biomaterial surface modification can enhance osteoblast mechanical response and
+Model Pred = the into the UNK of the differentiation properties of the of the . PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = insights into the alteration of osteoblast mechanical properties upon adhesion on chitosan . PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--16000.ckpt
+Iter 16200, accuracy = 0.2609, loss = 3.283288
+Iter 16400, accuracy = 0.2750, loss = 3.283020
+Iter 16600, accuracy = 0.2590, loss = 3.233404
+Iter 16800, accuracy = 0.2609, loss = 3.257120
+Iter 17000, accuracy = 0.2578, loss = 3.406879
+Iter 17000, VALIDATION -- accuracy = 0.2906, loss = 3.099696
+PASSAGE
+we report various types of pathways emerging in the course of freezing into a high pressure ice vii by largescale molecular dynamics md simulations at 10 gpa 425 k . some trajectories showed an apparently stepwise transition via the unique metastable phase in accordance with UNK step rule . the metastable structure was identified as one of the UNK closepacked structures having the nature of a rotator phase plastic phase . the unit cell consists of 21 water molecules that has not yet been reported by simulation or by experiments . structure analysis of numerous trajectories reveals that the nucleation of ice vii easily occurs at the grain boundaries of the metastable embryos known as UNK transformation in line with UNK step rule . the size of the grain boundaries is thus responsible for the lifetime of the metastable phase . on the other hand once the embryo of ice vii appears prior to that of the metastable phase in liquid direct transition to ice vii takes place . we also show that the plastic behavior of the metastable phase is not uniform but is sensitive to the interaction strength of adjacent molecules and the local structure thus we call
+Model Pred = UNK of UNK metal in UNK UNK of UNK and the . . PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = diversity of transition pathways in the course of crystallization into ice vii . PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--17000.ckpt
+Iter 17200, accuracy = 0.2875, loss = 3.188416
+Iter 17400, accuracy = 0.2504, loss = 3.398450
+Iter 17600, accuracy = 0.2715, loss = 3.326293
+Iter 17800, accuracy = 0.2512, loss = 3.358050
+Iter 18000, accuracy = 0.2430, loss = 3.377729
+Iter 18000, VALIDATION -- accuracy = 0.2848, loss = 3.229725
+PASSAGE
+a new analytical method was developed and validated for simultaneous analysis of 58 mycotoxins in dairy products . response surface methodology was employed to optimize a quick easy cheap effective rugged and safe quechers sample preparation method . ultrahighperformance liquid chromatography and electrospray ionization quadrupole orbitrap highresolution mass spectrometry UNK UNK was used for the separation and detection of all the analytes . the method was validated by taking into consideration the guidelines specified in commission decision UNK and UNK . the extraction recoveries were in a range of 86 . UNK . 7 with coefficient of variation 6 . 2 . the 58 compounds could be detected in the 0 . UNK μg kg1 concentration range with correlation coefficient 0 . 99 . the limits of detection for the analytes are in the range 0 . 0010 . 92 μg kg1 . the repeatability was lower than 6 . 4 . this method has been successfully applied on screening of mycotoxins in commercial dairy product samples and it is very useful for fast screening of different food contaminants . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = determination UNK of the cows in UNK chromatography . with UNK mass mass spectrometry . PAD PAD PAD PAD PAD
+Ground Truth = UNK analysis in dairy products by liquid chromatography coupled to quadrupole orbitrap mass spectrometry . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--18000.ckpt
+Iter 18200, accuracy = 0.2613, loss = 3.300392
+Iter 18400, accuracy = 0.2254, loss = 3.467038
+Iter 18600, accuracy = 0.2738, loss = 3.289040
+Iter 18800, accuracy = 0.2480, loss = 3.358095
+Iter 19000, accuracy = 0.2723, loss = 3.234030
+Iter 19000, VALIDATION -- accuracy = 0.2805, loss = 3.183082
+PASSAGE
+highfat diets may have favorable effects on growth partly based on protein sparing but highfat diets often lead to fatty liver excessive fat deposition in the liver which may be deleterious to fish growth and health . the goal of this study was therefore to investigate possible adverse effects and how they develop . juvenile blunt snout bream UNK amblycephala initial weight ± se 17 . 70 ± 0 . 10 g were fed two diets 5 fat control or 15 fat . after 8 weeks fish that were fed the 15 fat diet showed a high rate of mortality and poor growth . the histological results clearly showed that the high fat intake resulted in fat and glycogen accumulation and structural alterations of the hepatocytes mitochondria and nuclei . in the highfat group impairments of the mitochondria included mitochondrial swelling and the loss of cristae and matrix . fish that were given the 15 fat diet exhibited low succinate dehydrogenase and nakatpase activities and increased UNK release from the mitochondria . expression of genes for complex i and iii subunits of the mitochondrial respiratory chain were downregulated in fish that received the highfat diet . increases in malondialdehyde level
+Model Pred = effects of UNK UNK and UNK stress in inflammation responses in the and bream UNK . . a UNK diet
+Ground Truth = association of mitochondrial dysfunction with oxidative stress and immune suppression in blunt snout bream UNK amblycephala fed a highfat diet
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--19000.ckpt
+Iter 19200, accuracy = 0.2637, loss = 3.150485
+Iter 19400, accuracy = 0.2223, loss = 3.473696
+Iter 19600, accuracy = 0.2816, loss = 3.120194
+Iter 19800, accuracy = 0.3023, loss = 2.980404
+Iter 20000, accuracy = 0.2863, loss = 3.066627
+Iter 20000, VALIDATION -- accuracy = 0.2469, loss = 3.297024
+PASSAGE
+the purpose of this study was to evaluate the effects of dietary administration of the live yeast rhodotorula sp . c11 on growth and disease resistance against vibrio UNK infection in juvenile japanese UNK sea cucumber UNK japonicus . sea cucumbers were fed diets containing rhodotorula sp . c11 at 0 control UNK UNK and UNK cfug of feed for 45 d . there were three replicate tanks per dietary treatment . the specific growth rates were higher in all sea cucumbers treated with rhodotorula sp . c11 than in the controls . following a challenge with v . UNK UNK the cumulative prevalence and mortality of sea cucumbers fed diets supplemented with rhodotorula sp . c11 were lower than in animals fed the basal diet . in sea cucumbers fed diets supplemented with rhodotorula sp . c11 for 42 d the only viable yeast found in the intestine was rhodotorula sp . c11 which had counts of 1 . 581 . 98 × UNK . no yeast was isolated from the intestine of animals fed the basal diet . for the colonization study 20 sea cucumbers from each dietary treatment were removed to separate tanks and fed the control
+Model Pred = the effects of UNK UNK . UNK on the of UNK of of UNK UNK UNK UNK . UNK .
+Ground Truth = beneficial effects of rhodotorula sp . c11 on growth and disease resistance of juvenile japanese UNK sea cucumber UNK japonicus
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--20000.ckpt
+Iter 20200, accuracy = 0.2641, loss = 3.272810
+Iter 20400, accuracy = 0.2719, loss = 3.244913
+Iter 20600, accuracy = 0.2512, loss = 3.210336
+Iter 20800, accuracy = 0.3125, loss = 2.934691
+Iter 21000, accuracy = 0.2590, loss = 3.169191
+Iter 21000, VALIDATION -- accuracy = 0.2926, loss = 3.195081
+PASSAGE
+autophagy is an essential cellular pathway for degrading defective organelles and aggregated proteins . defects in autophagy have been implicated in the neurodegenerative disorder huntingtons disease hd in which UNK huntingtin UNK is predominantly cleared by autophagy . in neurons autophagosomes form constitutively at the axon tip and undergo robust retrograde axonal transport toward the cell body but the factors regulating autophagosome dynamics and autophagosome maturation are not well understood . here we show that both huntingtin htt and its adaptor protein UNK protein1 UNK UNK and colocalize with autophagosomes in neurons . we use livecell imaging and rnai in primary neurons from UNK transgenic mice to show that htt and UNK control autophagosome dynamics regulating dynein and kinesin motors to promote processive transport . expression of UNK in either primary neurons or striatal cells from hd knockin mice is sufficient to disrupt the axonal transport of autophagosomes . htt is not required for autophagosome formation or cargo loading . however the defective autophagosome transport observed in both UNK neurons and UNK neurons is correlated with inefficient degradation of engulfed mitochondrial fragments . together these studies identify htt and UNK as regulators of autophagosome transport in neurons and suggest that
+Model Pred = UNK UNK of the formation in UNK in UNK . required by UNK of UNK UNK . to the UNK
+Ground Truth = the regulation of autophagosome dynamics by huntingtin and UNK is disrupted by expression of mutant huntingtin leading to defective cargo
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--21000.ckpt
+Iter 21200, accuracy = 0.2910, loss = 3.031807
+Iter 21400, accuracy = 0.2676, loss = 3.172109
+Iter 21600, accuracy = 0.2441, loss = 3.326116
+Iter 21800, accuracy = 0.2758, loss = 3.066055
+Iter 22000, accuracy = 0.2488, loss = 3.235006
+Iter 22000, VALIDATION -- accuracy = 0.2875, loss = 3.052129
+PASSAGE
+increased variability is a characteristic clinical and physiologic feature of functional psychogenic tremor . in this study we use computerized spiral analysis to show that the variability of a motor task is a quantifiable characteristic of functional tremor . we compare functional tremor patients to UNK similar dystonic tremor patients and to normal controls . we used the spiral severity score a measure that does not incorporate spiral tightness as a marker of spiral drawing performance and UNK tightness variability based on the UNK range in tightness across ten spirals to evaluate the effects of functional tremor on drawing spirals . the spirals of 74 participants 22 functional tremor 21 dystonic tremor and 31 normal controls were analyzed . spiral severity was higher in both tremor groups compared to controls but did not differentiate them . UNK variability however was higher in the functional tremor group compared to both other groups . thus spiral analysis captures variability of a motor task and may be used as an objective test for functional tremor . the effect of functional tremor in other motor tasks should be investigated . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the temporal of the ganglion in the with UNK and nonepileptic . PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = increased variability in spiral drawing in patients with functional psychogenic tremor . PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--22000.ckpt
+Iter 22200, accuracy = 0.2887, loss = 2.951973
+Iter 22400, accuracy = 0.2766, loss = 3.162204
+Iter 22600, accuracy = 0.2637, loss = 3.224450
+Iter 22800, accuracy = 0.2414, loss = 3.309563
+Iter 23000, accuracy = 0.2734, loss = 3.226991
+Iter 23000, VALIDATION -- accuracy = 0.2402, loss = 3.268495
+PASSAGE
+inflammation plays a major pathogenetic role in the development of atherosclerotic plaques and related thromboembolic events . the identification of vulnerable plaques is of the utmost importance as this may allow the implementation of more effective preventive and therapeutic interventions . fluorodeoxyglucose positron emission tomography fdgpet has been shown to be useful for tracing inflammation within plaques . however its relationship to immunohistochemical findings in different territories of the peripheral circulation was not completely elucidated . we aimed to determine whether plaque inflammation could be measured by pet in combination with computer tomography ct using fdg and what is the relationship between fdg uptake and immunohistochemical findings in the removed atherosclerotic lesions of the femoral and carotid arteries . the study included 31 patients 21 patients with highgrade stenosis of the internal carotid artery ica and 10 patients with occlusion of the common femoral artery cfa all of whom underwent endarterectomy . before endarterectomy in all patients fdgpetct imaging was performed . fdg uptake was measured as the maximum UNK standardized uptake value known as the target to background ratio tbr max . tbr max amounted to 1 . 72 ± 0 . 8 and in patients with ica stenosis
+Model Pred = the of the carotid plaque in patients . a . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = identification of inflamed atherosclerotic lesions in vivo using petct . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--23000.ckpt
+Iter 23200, accuracy = 0.2633, loss = 3.248155
+Iter 23400, accuracy = 0.2711, loss = 3.157189
+Iter 23600, accuracy = 0.2594, loss = 3.260300
+Iter 23800, accuracy = 0.2832, loss = 3.107556
+Iter 24000, accuracy = 0.3051, loss = 3.013273
+Iter 24000, VALIDATION -- accuracy = 0.2867, loss = 3.113415
+PASSAGE
+the pathogenesis of methotrexate central nervous system toxicity is multifactorial but it is likely related to central nervous system folate homeostasis . the use of UNK rescue has been described to decrease toxicity in patients who had received intrathecal methotrexate . it has also been described in previous studies that there is an elevated level of homocysteine in plasma and cerebrospinal fluid of patients who had received intrathecal methotrexate . homocysteine is an nmethyldaspartate receptor agonist . the use of dextromethorphan noncompetitive nmethyldaspartate receptor receptor antagonist has been used in the treatment of sudden onset of neurological dysfunction associated with methotrexate toxicity . it remains unclear whether the dextromethorphan impacted the speed of recovery and its use remains controversial . this study reviews the use of dextromethorphan in the setting of subacute methotrexate central nervous system toxicity . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the of the and in the weeks with UNK UNK . nervous system . . PAD PAD PAD PAD PAD
+Ground Truth = review of dextromethorphan administration in 18 patients with subacute methotrexate central nervous system toxicity . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--24000.ckpt
+Iter 24200, accuracy = 0.2766, loss = 3.046253
+Iter 24400, accuracy = 0.2602, loss = 3.127621
+Iter 24600, accuracy = 0.2504, loss = 3.274197
+Iter 24800, accuracy = 0.2996, loss = 2.996839
+Iter 25000, accuracy = 0.2672, loss = 3.179138
+Iter 25000, VALIDATION -- accuracy = 0.2523, loss = 3.340026
+PASSAGE
+ginsenoside rb1 is reported to possess antifatigue activity but the mechanisms remain unknown . the aim of this study was to investigate the molecular mechanisms responsible for the antifatigue effect of ginsenoside rb1 on postoperative fatigue syndrome induced by major small intestinal resection UNK in aged rat . aged rats with UNK were administrated with ginsenoside rb1 15 mgkg once a day from 3 days before surgery to the day of sacrifice or with saline as corresponding controls . rats without UNK but going through the same surgery procedure were administrated with saline as blank controls . antifatigue effect was assessed by an open field test superoxide dismutase reactive oxygen species and malondialdehyde in skeletal muscle were determined . the mrna levels of akt2 and nrf2 in skeletal muscle were measured by realtime quantitative pcr . the activation of akt and nrf2 was examined by western blot and UNK . our results revealed that ginsenoside rb1 significantly increased the journey and the rearing frequency decreased the time of rest in aged rats with UNK . in addition ginsenoside rb1 significantly reduced reactive oxygen species and malondialdehyde release and increased the superoxide dismutase activity of skeletal muscle in aged rats with
+Model Pred = UNK rg1 attenuates the pain in in UNK the muscle . stress . the of the UNK pathway . the
+Ground Truth = ginsenoside rb1 improves postoperative fatigue syndrome by reducing skeletal muscle oxidative stress through activation of the UNK pathway in aged
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--25000.ckpt
+Iter 25200, accuracy = 0.2547, loss = 3.195301
+Iter 25400, accuracy = 0.2578, loss = 3.198919
+Iter 25600, accuracy = 0.2461, loss = 3.258600
+Iter 25800, accuracy = 0.2777, loss = 2.945118
+Iter 26000, accuracy = 0.2445, loss = 3.224149
+Iter 26000, VALIDATION -- accuracy = 0.2766, loss = 3.259995
+PASSAGE
+biological systems with controlled permeability and release functionality which are among the successful examples of living beings to survive in evolution have attracted intensive investigation and have been mimicked due to their broad spectrum of applications . we present in this work for the first time an example of nuclear pore complexes UNK controlled release system that exhibits ondemand release of UNK molecules . we do so in a costeffective way by stabilizing porous cobalt basic carbonates as UNK and realizing phsensitive release of entrapped UNK cargo . the proofofconcept work also consists of the establishment of two mathematical models to explain the selective permeability of the UNK . finally UNK or larger quantities of the bioinspired controlled release system can be synthesized through a UNK strategy which opens up opportunities for controlled release of functional molecules in wider practical applications . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = UNK UNK UNK UNK UNK of UNK . . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = bioinspired UNK with selective permeability and ph sensitivity . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--26000.ckpt
+Iter 26200, accuracy = 0.2875, loss = 2.986526
+Iter 26400, accuracy = 0.2805, loss = 3.033610
+Iter 26600, accuracy = 0.2461, loss = 3.146300
+Iter 26800, accuracy = 0.2793, loss = 3.017735
+Iter 27000, accuracy = 0.2797, loss = 3.048650
+Iter 27000, VALIDATION -- accuracy = 0.2910, loss = 3.245737
+PASSAGE
+we investigated the role of tumor copy number UNK genome UNK in the carcinogenesis of cervical cancer cc especially its effect on gene expression biological processes and patient survival . fiftynine human papillomavirus 16 UNK ccs were investigated with UNK for mapping UNK and 55 for global gene expression with 27 ccs in common . fiveyear survival was investigated in 55 patients . deletions and amplifications 2 . 5 mb were defined as cn alterations . the UNK varied from 0 to 32 . 2 mean 8 . UNK . 9 . tumors were classified as low mean 0 . 5±0 . 6 n 11 medium mean 5 . 4±2 . 4 n 10 or high mean 19 . UNK . 6 n 10 cn . the highest UNK was found in UNK which contributed an average of 55 of all cn alterations . genomewide only 5 . 3 of UNK genes were deregulated directly by gene dosage . in contrast the rate in fully duplicated UNK was twice as high . amplification of UNK explained 23 . 2 of deregulated genes in whole tumors r2 0 . 232 p 0 . 006 analysis of variance including genes located in
+Model Pred = the of UNK expression on the expression in and in UNK in patients cancer . metaanalysis association study . PAD
+Ground Truth = impact of gene dosage on gene expression biological processes and survival in cervical cancer a genomewide followup study . PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--27000.ckpt
+Iter 27200, accuracy = 0.2594, loss = 3.225852
+Iter 27400, accuracy = 0.2844, loss = 2.944906
+Iter 27600, accuracy = 0.2531, loss = 3.163440
+Iter 27800, accuracy = 0.2629, loss = 3.053562
+Iter 28000, accuracy = 0.2699, loss = 2.969164
+Iter 28000, VALIDATION -- accuracy = 0.2934, loss = 3.099316
+PASSAGE
+endoscopic surgery is increasingly utilized in neurosurgery for all pediatric age groups . endoscopic intraventricular neurosurgery represents a unique approach to intracranial pathology but may cause a unique set of limitations and potential complications . important endoscopic neurosurgical techniques and their indications perioperative anesthesia management complications and success rates are reviewed with special emphasis on endoscopic third ventriculostomy and UNK strip craniectomy in early infancy . despite encouraging short and longterm results of early pediatric endoscopic neurosurgery multicenter randomized studies will be needed to further determine safety and the effect on cognitive development and quality of life . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = endoscopic endonasal surgery . for the . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = endoscopic pediatric neurosurgery implications for anesthesia . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--28000.ckpt
+Iter 28200, accuracy = 0.2578, loss = 3.007264
+Iter 28400, accuracy = 0.2578, loss = 3.141237
+Iter 28600, accuracy = 0.2707, loss = 3.068202
+Iter 28800, accuracy = 0.2566, loss = 3.110005
+Iter 29000, accuracy = 0.2754, loss = 3.209709
+Iter 29000, VALIDATION -- accuracy = 0.2574, loss = 3.131651
+PASSAGE
+aging is wellknown an inevitable process that is influenced by genetic lifestyle and environmental factors . however the exact mechanisms underlying the aging process are not well understood . increasing evidence shows that aging is highly associated with chronic increase in reactive oxygen species ros accumulation of a lowgrade proinflammatory phenotype and reduction in agerelated autophagy suggesting that these factors may play important roles in promoting aging . indeed reduction of ros and lowgrade inflammation and promotion of autophagy by calorie restriction or other dietary manipulation can extend lifespan in a wide spectrum of model organisms . interestingly recent studies show that some UNK small molecules also called phytochemicals can extend lifespan in various animal species . in this paper we review several recently identified potential antiaging phytochemicals that have been studied in cells animals and humans and further highlight the cellular and molecular mechanisms underlying the antiaging actions by these molecules . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the UNK and and the . with the stress . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = dietary antiaging phytochemicals and mechanisms associated with prolonged survival . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--29000.ckpt
+Iter 29200, accuracy = 0.2719, loss = 3.083202
+Iter 29400, accuracy = 0.2398, loss = 3.310947
+Iter 29600, accuracy = 0.2672, loss = 3.009593
+Iter 29800, accuracy = 0.2598, loss = 3.158631
+Iter 30000, accuracy = 0.2777, loss = 3.027682
+Iter 30000, VALIDATION -- accuracy = 0.3016, loss = 2.937614
+PASSAGE
+this study assessed the feasibility and safety of laparoscopic surgery for metachronous colorectal cancer in patients who had previously undergone surgery for primary colorectal cancer . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = laparoscopic of safety of laparoscopic cholecystectomy for patients colorectal cancer . PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = feasibility and safety of laparoscopic surgery for metachronous colorectal cancer . PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--30000.ckpt
+Iter 30200, accuracy = 0.2684, loss = 3.104587
+Iter 30400, accuracy = 0.2727, loss = 2.924454
+Iter 30600, accuracy = 0.2828, loss = 2.799982
+Iter 30800, accuracy = 0.2594, loss = 3.026338
+Iter 31000, accuracy = 0.2602, loss = 3.064258
+Iter 31000, VALIDATION -- accuracy = 0.2910, loss = 3.125542
+PASSAGE
+there is an unmet clinical need to increase lung transplant successes patient satisfaction and to improve mortality rates . we offer the development of a UNK solution that will reduce the incidence of lung ischemic reperfusion injury iri leading to graft organ failure through the successful ex vivo treatment of the lung prior to transplantation . the innovation is in the integrated application of our novel porous silicon psi microparticles carrying adenoassociated virus aav nanoparticles and the use of our ex vivo lung UNK system for the modulation of proinflammatory cytokines initiated by ischemic pulmonary conditions prior to organ transplant that often lead to complications . gene delivery of antiinflammatory agents to combat the inflammatory cascade may be a promising approach to prevent iri following lung transplantation . the rationale for the device is that the microparticle will deliver a large payload of virus to cells and serve to protect the aav from immune recognition . the UNK hybrid device was tested both in vitro on cell monolayers and ex vivo using either porcine venous tissue or a pig lung transplantation model which recapitulates pulmonary iri that occurs clinically posttransplantation . remarkably loading aav vectors into psi microparticles increases gene
+Model Pred = UNK UNK delivery in the liver . . UNK of UNK virus . . the UNK . . PAD PAD
+Ground Truth = enhanced gene delivery in porcine vasculature tissue following incorporation of adenoassociated virus nanoparticles into porous silicon microparticles . PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--31000.ckpt
+Iter 31200, accuracy = 0.2574, loss = 3.002708
+Iter 31400, accuracy = 0.2426, loss = 3.233533
+Iter 31600, accuracy = 0.2199, loss = 3.136071
+Iter 31800, accuracy = 0.2848, loss = 3.014587
+Iter 32000, accuracy = 0.2375, loss = 3.170831
+Iter 32000, VALIDATION -- accuracy = 0.2586, loss = 3.197624
+PASSAGE
+this study was designed to assess the role of left atrial la shape in predicting embolic cerebrovascular events ece in patients with mitral stenosis ms . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the of the UNK in the cardiac stroke events in patients valve . study from the UNK . PAD PAD
+Ground Truth = role of la shape in predicting embolic cerebrovascular events in mitral stenosis mechanistic insights from 3d echocardiography . PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--32000.ckpt
+Iter 32200, accuracy = 0.2727, loss = 3.056516
+Iter 32400, accuracy = 0.2559, loss = 3.098391
+Iter 32600, accuracy = 0.2602, loss = 3.148297
+Iter 32800, accuracy = 0.2707, loss = 3.124311
+Iter 33000, accuracy = 0.2465, loss = 3.136292
+Iter 33000, VALIDATION -- accuracy = 0.2652, loss = 3.166520
+PASSAGE
+prevalence rates of invalid baseline scores on computerized neurocognitive assessments for high school collegiate and professional athletes have been published in the literature . at present there is limited research on the prevalence of invalid baseline scores in UNK school athletes . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = the and the of of the performance of UNK in in in the performance in PAD PAD PAD PAD PAD
+Ground Truth = age and test setting affect the prevalence of invalid baseline scores on neurocognitive tests . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--33000.ckpt
+Iter 33200, accuracy = 0.2438, loss = 3.194310
+Iter 33400, accuracy = 0.2766, loss = 2.972615
+Iter 33600, accuracy = 0.2766, loss = 3.035671
+Iter 33800, accuracy = 0.2797, loss = 2.889293
+Iter 34000, accuracy = 0.2793, loss = 2.951743
+Iter 34000, VALIDATION -- accuracy = 0.3035, loss = 3.095312
+PASSAGE
+although inhibition of the insulinlike growth factor igf signaling pathway was expected to eliminate a key resistance mechanism for egf receptor UNK cancers the effectiveness of igfi receptor igfir inhibitors in clinical trials has been limited . a multiplicity of survival mechanisms are available to cancer cells . both igfir and the erbb3 receptor activate the pi3kaktmtor axis but erbb3 has only recently been pursued as a therapeutic target . we show that coactivation of the erbb3 pathway is prevalent in a majority of cell lines responsive to igf ligands and antagonizes UNK growth inhibition . blockade of the redundant igfir and erbb3 survival pathways and downstream resistance mechanisms was achieved with UNK a tetravalent bispecific antibody antagonist of igfir and erbb3 . UNK potency was superior to monospecific and combination antibody therapies and was insensitive to variation in the ratio of igfir and erbb3 receptors . UNK enhanced the biologic impact of receptor inhibition in vivo as a monotherapy and in combination with the mtor inhibitor everolimus gemcitabine or docetaxel through blockade of igfir and erbb3 signaling and prevention of pi3kaktmtor network adaptation . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = UNK UNK UNK inhibitor UNK UNK antibody UNK the and to in the of UNK . . PAD PAD PAD
+Ground Truth = UNK an igfir and UNK bispecific antibody overcomes network adaptations that limit activity of igfir inhibitors . PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--34000.ckpt
+Iter 34200, accuracy = 0.2543, loss = 3.015322
+Iter 34400, accuracy = 0.2684, loss = 3.054635
+Iter 34600, accuracy = 0.2785, loss = 2.914757
+Iter 34800, accuracy = 0.2754, loss = 3.006930
+Iter 35000, accuracy = 0.2645, loss = 2.948262
+Iter 35000, VALIDATION -- accuracy = 0.2750, loss = 2.966595
+PASSAGE
+microtia represents a spectrum of UNK of the external ear . reconstructive techniques may utilize an autogenous rib cartilage framework and require 24 stages alternatively an alloplastic framework can be used and typically requires 12 stages . successful reconstruction of microtia with either technique can provide a significant quality of life improvement and both techniques are described in this article . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = a reconstruction of UNK UNK UNK UNK . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = microtia reconstruction autologous rib and UNK techniques . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--35000.ckpt
+Iter 35200, accuracy = 0.2723, loss = 2.957208
+Iter 35400, accuracy = 0.3125, loss = 2.896003
+Iter 35600, accuracy = 0.2785, loss = 3.132189
+Iter 35800, accuracy = 0.2754, loss = 2.950913
+Iter 36000, accuracy = 0.2742, loss = 3.047811
+Iter 36000, VALIDATION -- accuracy = 0.2469, loss = 3.128977
+PASSAGE
+the most comprehensive phylogenetic classification of human parainfluenza virus 3 UNK was recently developed plos one UNK . this classification included three distinct clusters a b and c with subdivision of cluster c into four UNK c14 . in the present report the classification of UNK was refined by inclusion of 27 overlooked beside newly characterized saudi variants . the new UNK was developed and included the same clusters described before in which cluster a remained unchanged and cluster b contained more recent isolates . the organization of cluster c was altered through inclusion of a new UNK c5 subdivision of c1 into two lineages UNK and UNK and subdivision of c3 into three lineages c3a c3b and UNK . the majority of saudi variants were classified as members of UNK UNK whereas only one variant was placed in each of UNK c2 and c5 . this study illustrates an uptodate phylogenetic classification of UNK variants . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = UNK UNK expression typing of UNK UNK virus . . . PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Ground Truth = UNK gene sequencebased reclassification of human parainfluenza virus 3 variants . PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--36000.ckpt
+Iter 36200, accuracy = 0.2816, loss = 3.017818
+Iter 36400, accuracy = 0.2836, loss = 2.843852
+Iter 36600, accuracy = 0.2848, loss = 2.900950
+Iter 36800, accuracy = 0.2539, loss = 3.014465
+Iter 37000, accuracy = 0.2715, loss = 2.949729
+Iter 37000, VALIDATION -- accuracy = 0.2633, loss = 3.155519
+PASSAGE
+the genetic background associated with the dysregulation of orthostatic blood pressure remains poorly understood . the sympathetic nervous system plays a pivotal role in the regulation of blood pressure as well as in response to positional changes . the essential role of adrenergic receptors in the sympathetic nervous system prompted us to hypothesize that common genetic variants of the α2adrenergic receptor might contribute to the dysregulation of orthostatic blood pressure in general populations . this study is to explore the association between the polymorphisms of the α2adrenergic receptor genes and the occurrence of orthostatic hypotension in chinese populations . PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+Model Pred = association of UNK variants variants and the and and UNK in in UNK hypotension in PAD PAD PAD PAD PAD
+Ground Truth = association between common genetic variants of α2a UNK and UNK receptors and orthostatic hypotension . PAD PAD PAD PAD PAD
+
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/Text  Summarization /weights/seq2seq_weights_iter--37000.ckpt
